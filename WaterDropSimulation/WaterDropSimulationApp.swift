@@ -2,8 +2,6 @@
 //  WaterDropSimulationApp.swift
 //  WaterDropSimulation
 //
-//  Created by Sarah Shahrin on 2/26/24.
-//
 
 import SwiftUI
 
