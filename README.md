@@ -3,7 +3,7 @@ This Water Drop Simulation project models the motion of a drop of water falling 
 
 Process overview:  
 
-I recorded a video of a drop of water falling on a surface using my phone’s back camera. 
+I recorded a video of a drop of water falling on a surface using my phone’s back camera (also included in the repo). 
 This video is then processed by Python’s OpenCV library to generate a list of time and position data points for velocity and acceleration calculations using numPy.
 The subsequent data points are then curve-fitted using an exponential decay formula.
 To assess the model’s fit, I plotted the data (3 graphs) using the matploblib library (commented out in the code) in python for visual analysis. 
