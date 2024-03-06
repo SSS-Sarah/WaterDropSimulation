@@ -17,7 +17,7 @@ Further additions for better model comprehension: The csv file created stores da
 
 Code components:
 
-- WaterDropModel.py: Python is used for video processing, subsequent calculations, curve fitting and data analysis using appropriate libraries.
+- PythonWaterDrop.py: Python is used for video processing, subsequent calculations, curve fitting and data analysis using appropriate libraries.
 - ContentView.swift: SwiftUI is used to display the results with VoiceOver accessibility compatibility.
     - Some way to start
     - Some way to end → button.
