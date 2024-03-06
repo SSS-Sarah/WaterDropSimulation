@@ -13,7 +13,7 @@ The final fitted graph’s data points are then stored in a .csv file which is c
 Limitations for AX and what I could have done better:
 
 The AX descriptions for the model are static. If the data were to change, perhaps a more meaningful way to support dynamic (or otherwise) charts is to effectively use the AudioGraph API by Apple. I attempted to integrate it but given the scope of the project, stuck to AX elements.
-
+Further additions for better model comprehension: The csv file created stores data points for acceleration and velocity as well whose plots can provide additional insight into the behavior of the water droplet's motion.
 
 Code components:
 
