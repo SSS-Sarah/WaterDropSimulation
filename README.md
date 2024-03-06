@@ -41,7 +41,7 @@ Design choices:
 
 To Run:
 
-You will need a macOS system for XCode support. Fork this repository and ensure the media file (containing the video) is in the same project directory as [WaterDropSimulation.py](http://WaterDropSimulation.py) file.
+You will need a macOS system for XCode support. Fork this repository and ensure the media file (containing the video) is in the same project directory as [PythonWaterDrop.py](http://WaterDropSimulation.py) file.
 
 
 References:
