@@ -7,7 +7,7 @@ I recorded a video of a drop of water falling on a surface using my phone’s ba
 This video is then processed by Python’s OpenCV library to generate a list of time and position data points for velocity and acceleration calculations using numPy.
 The subsequent data points are then curve-fitted using an exponential decay formula.
 To assess the model’s fit, I plotted the data (3 graphs) using the matploblib library (commented out in the code) in python for visual analysis. 
-The final fitted graph’s data points are then stored in a .csv file which is called by SwiftUI and then using Swift’s Chart library, is represented in graph view on a single-page macOS app window. This resulting graph is then made accessible to blind/visually impaired users using VoiceOver support, accessibility labels.
+The final fitted graph’s data points are then stored in a .csv file which is called by SwiftUI and then using Swift Charts framework, is represented in graph view on a single-page macOS app window. This resulting graph is then made accessible to blind/visually impaired users using VoiceOver support, accessibility labels.
 
 
 Limitations for AX and what I could have done better:
