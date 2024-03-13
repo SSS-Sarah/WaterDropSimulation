@@ -33,7 +33,7 @@ This Water Drop Simulation project models the motion of a drop of water falling 
 ## Required Installations
 
 ```
-pip install opencv-python numpy matplotlib pythonkit
+pip install opencv-python numpy matplotlib
 ```
 
 ## Additional Notes on Hardware Limitations:
